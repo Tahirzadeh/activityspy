@@ -1,0 +1,54 @@
+01-16 15:27:20.404 5937-5937/? I/art: Late-enabling -Xcheck:jni
+01-16 15:27:20.444 5937-5937/? D/ActivityManager: default service binder = android.os.BinderProxy@13999c31
+01-16 15:27:20.444 5937-5937/? D/ActivityManager: default service = android.app.ActivityManagerProxy@24e49f16
+01-16 15:27:20.457 5937-5937/? D/VendorDisplayManagerGlobalCallback: callGetInstance: nil
+01-16 15:27:20.527 5937-5937/edu.washington.abbast.activityspy I/ContextImpl: com.amazon.client.metrics.api registered service at i = 69
+01-16 15:27:20.534 5937-5937/edu.washington.abbast.activityspy I/InstantRun: Instant Run Runtime started. Android package is edu.washington.abbast.activityspy, real application class is null.
+01-16 15:27:25.467 5937-5937/edu.washington.abbast.activityspy D/ProfileManager: Create ProfileManager instance
+01-16 15:27:25.677 5937-5937/edu.washington.abbast.activityspy I/FrameworkJumpTable: Successfully loaded all classes
+01-16 15:27:25.677 5937-5937/edu.washington.abbast.activityspy I/FrameworkJumpTable: Successfully loaded all methods
+01-16 15:27:25.677 5937-5937/edu.washington.abbast.activityspy I/FrameworkJumpTable: Successfully loaded all fields
+01-16 15:27:25.778 5937-5937/edu.washington.abbast.activityspy W/art: Before Android 4.1, method android.graphics.PorterDuffColorFilter android.support.graphics.drawable.VectorDrawableCompat.updateTintFilter(android.graphics.PorterDuffColorFilter, android.content.res.ColorStateList, android.graphics.PorterDuff$Mode) would have incorrectly overridden the package-private method in android.graphics.drawable.Drawable
+01-16 15:27:26.031 5937-5937/edu.washington.abbast.activityspy W/ResourceType: Attempt to retrieve bag 0x0103003e which is invalid or in a cycle.
+01-16 15:27:26.044 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onCreate event fired
+01-16 15:27:26.045 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onStart event fired
+01-16 15:27:26.045 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onResume event fired
+01-16 15:27:26.091 5937-6079/edu.washington.abbast.activityspy D/OpenGLRenderer: Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+01-16 15:27:26.094 5937-5937/edu.washington.abbast.activityspy I/HAL: loaded HAL id=gralloc path=/system/lib/hw/gralloc.mt8127.so hmi=0x401bb3b9 handle=0x4acd33f4
+01-16 15:27:26.097 5937-5937/edu.washington.abbast.activityspy D/Atlas: Validating map...
+01-16 15:27:26.108 5937-5937/edu.washington.abbast.activityspy V/GameCircleVendorCallback: getImpliedSystemUiVisibility 
+01-16 15:27:26.136 5937-5937/edu.washington.abbast.activityspy V/GameCircleVendorCallback: getImpliedSystemUiVisibility 
+01-16 15:27:26.167 5937-6079/edu.washington.abbast.activityspy I/HAL: loaded HAL id=gralloc path=/system/lib/hw/gralloc.mt8127.so hmi=0x0 handle=0x4acd33f4
+01-16 15:27:26.168 5937-6079/edu.washington.abbast.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+01-16 15:27:26.170 5937-6079/edu.washington.abbast.activityspy D/OpenGLRenderer: Enabling debug mode 0
+01-16 15:27:26.170 5937-6079/edu.washington.abbast.activityspy E/[EGL-ERROR]: egl_image* _egl_create_image_ANDROID_native_buffer(egl_display*, egl_context*, EGLClientBuffer, EGLint*, void*):593: CHUN try create image with crop 0,0,0,0
+01-16 15:27:26.171 5937-6079/edu.washington.abbast.activityspy I/HAL: loaded HAL id=gralloc path=/system/lib/hw/gralloc.mt8127.so hmi=0x401bf5bd handle=0x4acd33f4
+01-16 15:27:26.171 5937-6079/edu.washington.abbast.activityspy I/HAL: loaded HAL id=gralloc path=/system/lib/hw/gralloc.mt8127.so hmi=0x401bb3b9 handle=0x4acd33f4
+                                                                      
+                                                                      [ 01-16 15:27:26.171  5937: 6079 E/         ]
+                                                                      CHUN map external image rgb 768 x 768
+01-16 15:27:26.177 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-16 15:27:26.177 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-16 15:27:26.177 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]max_allowed_dequeued_buffers=3
+01-16 15:28:53.312 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onPause event fired
+01-16 15:28:53.594 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onStop event fired
+01-16 15:28:56.972 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onRestart event fired
+01-16 15:28:56.973 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onStart event fired
+01-16 15:28:56.973 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onResume event fired
+01-16 15:28:56.982 5937-5937/edu.washington.abbast.activityspy V/GameCircleVendorCallback: getImpliedSystemUiVisibility 
+01-16 15:28:56.993 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-16 15:28:56.993 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-16 15:28:56.993 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]max_allowed_dequeued_buffers=3
+01-16 15:29:09.051 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onPause event fired
+01-16 15:29:09.063 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onStop event fired
+01-16 15:29:10.995 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onRestart event fired
+01-16 15:29:10.998 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onStart event fired
+01-16 15:29:10.998 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onResume event fired
+01-16 15:29:11.005 5937-5937/edu.washington.abbast.activityspy V/GameCircleVendorCallback: getImpliedSystemUiVisibility 
+01-16 15:29:11.017 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]window_type=1, is_framebuffer=0, errnum = 0
+01-16 15:29:11.017 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]surface->num_buffers=4, surface->num_frames=3, win_min_undequeued=1
+01-16 15:29:11.017 5937-6079/edu.washington.abbast.activityspy I/MaliEGL: [Mali]max_allowed_dequeued_buffers=3
+01-16 15:29:15.120 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onPause event fired
+01-16 15:29:15.367 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onStop event fired
+01-16 15:29:15.368 5937-5937/edu.washington.abbast.activityspy I/MainActivity: onDestroy event fired
+01-16 15:29:15.368 5937-5937/edu.washington.abbast.activityspy E/MainActivity: We're going down, Captain!
